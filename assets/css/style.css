@@ -1195,10 +1195,10 @@ Go Top CSS
   -webkit-animation: top-bottom 3s infinite linear;
           animation: top-bottom 3s infinite linear;
 }
-.side-part {
+/* .side-part {
   display: flex;
   justify-content: center;
-}
+} */
 
 /*================================================
 Index 01 Banner Area CSS
@@ -1236,10 +1236,10 @@ Index 01 Banner Area CSS
 }
 
 @media only screen and (max-width: 768px) {
-  .side-part {
+  /* .side-part {
     display: flex;
     justify-content: center;
-  }
+  } */
 
 }
 
@@ -1293,7 +1293,7 @@ Index 01 Banner Area CSS
   padding-right:0!important;
 }
 .slider-part .side-part {
-  padding-left:0!important;
+  padding-left:18px!important;
 }
 .key-specials-persons {
   background-color: #233342;
@@ -1452,6 +1452,9 @@ Index 01 Banner Area CSS
 }
 .mbs-5 {
   background-image: url("../images/head-slider4.jpg");
+}
+.mbs-6 {
+  background-image: url("../images/head-slider105.jpg");
 }
 
 .main-banner {
