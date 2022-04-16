@@ -3227,6 +3227,7 @@ Inner Team Area CSS
 }
 
 .team-card-4 .team4-img {
+  text-align: center;
   border-radius: 50%;
   position: relative;
 }
@@ -3288,7 +3289,7 @@ Inner Team Area CSS
 }
 
 .team-card-4:hover .team4-img::before {
-  width: 90%;
+  width: 65%;
   height: 90%;
 }
 
