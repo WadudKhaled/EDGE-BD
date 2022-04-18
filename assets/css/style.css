@@ -661,8 +661,8 @@ a.meanmenu-reveal {
 }
 
 .main-nav nav .navbar-nav {
-  margin-left: auto;
-  /* margin-right: auto; */
+  /* margin-left: auto; */
+  margin-right: auto;
 }
 
 .main-nav nav .navbar-nav .nav-item {
@@ -3279,7 +3279,7 @@ Inner Team Area CSS
 
 .team-card-4 .team4-text-area h4 {
   margin-bottom: 8px;
-  font-size: var(--card-title-fontSize);
+  font-size: 14px;
   font-family: var(--fontFamily);
   font-weight: 600;
 }
@@ -3289,7 +3289,7 @@ Inner Team Area CSS
 }
 
 .team-card-4:hover .team4-img::before {
-  width: 65%;
+  width: 90%;
   height: 90%;
 }
 
